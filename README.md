@@ -122,7 +122,7 @@ This is one of the more involved parts of the code, so I will just paste the imp
 
 ![](img/step_10.png)
 
-Change the keyword list as needed. Please made sure you add JMDevLabs to your list 😊
+Change the keyword list as needed. Please make sure you add JMDevLabs to your list 😊
 
 From time to time, you will get an error, if the API senses that you’ve reached the limit of tweets for a day or if the program is trying to retweet your own twets too many times. Keep your eye on the script, if you see a CODE 1 EXIT on the console below, just restart it. The sleep time can also be decreased for added activity, but remember that Twitter does not like a ton of spam.
 
